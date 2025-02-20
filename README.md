@@ -1,6 +1,8 @@
 # Hw101
- repository for my growth
- ![text alt]("DAY 1 Task")
+ DAY 1 Task
+ 
 ![image alt](https://github.com/Yugan23/Hw101/blob/15b2a9c6ae89964be421d05b53c145aa8cc32d3f/Screenshot%20(52).png)
-![text alt]("Day 2 Task")
+
+Day 2 Task
+
 ![image alt](https://private-user-images.githubusercontent.com/145104558/415297163-6ea95adb-5ba4-4133-b4cd-c76c32c663af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNzI5OTIsIm5iZiI6MTc0MDA3MjY5MiwicGF0aCI6Ii8xNDUxMDQ1NTgvNDE1Mjk3MTYzLTZlYTk1YWRiLTViYTQtNDEzMy1iNGNkLWM3NmMzMmM2NjNhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMFQxNzMxMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYjcyYTQyOTI0OTRmNmIxNDZmNTkyODcxMTYxMDc0YmE1Yjg0OTA1YmUxYjljZWNkYjAwNDIzZmM2YWYyNmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.M4RZZx-v0N88PZ6MQs45q6wNhPvztbAT5gL1YoUW3OM)
